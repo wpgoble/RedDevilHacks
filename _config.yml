@@ -29,7 +29,7 @@ social:
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Red Devil Hacks | 5-6 August 2022"
+  title:       "Red Devil Hacks | 5-6 March 2027"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
@@ -37,8 +37,8 @@ seo:
 event:
   name:        "Red Devil Hacks"
   description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 - 6 August 2022"
-  location:    "Holmdel, NJ, United States"
+  date:        "5 - 6 March 2027"
+  location:    "Carlisle, PA, United States"
 
   trust_badge:
     year:   "2027"  # season year
